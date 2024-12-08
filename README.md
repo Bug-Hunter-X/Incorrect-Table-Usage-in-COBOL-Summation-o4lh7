@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs involving incorrect table handling. The `bug.cob` file contains code that attempts to calculate the sum of numbers from 1 to 100 using a table without specifying the table size correctly. This can cause unexpected results or runtime errors.  The `bugSolution.cob` file provides the corrected code.
